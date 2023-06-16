@@ -1,8 +1,8 @@
 
-
+<!--
 [![Ionut Dinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinuionut&hide_border=true&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22)](https://github.com/dinuionut)
 
-<!--
+
 **dinuionut/dinuionut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
